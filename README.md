@@ -7,7 +7,7 @@ Estimated container size >= 121MB
 docker build -t megaclisas-status .
 
 ## usage
-docker run --rm -it --privileged megalisas-status
+docker run --rm -it --privileged megaclisas-status
 
 
 [hwraid/debian]: https://hwraid.le-vert.net/wiki/DebianPackages
